@@ -1,4 +1,4 @@
-# cplusplus_char_by_char
+# C++_char_by_char
 
 Read char by char
 Nombres y Apellidos (strings)
